@@ -7,7 +7,7 @@ use Bitrix\Main\Localization\Loc as Loc;
 class TesttandoorsShowtimeComponent extends CBitrixComponent
 {
     /**
-     * тегированный кеш
+     *
      * @var mixed
      */
     protected $tagCache;
